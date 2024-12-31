@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="TomCat">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../TomCat" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../TomCat/AAD_Practical3/Module1/src" />
+    </SOURCES>
+  </library>
+</component>
